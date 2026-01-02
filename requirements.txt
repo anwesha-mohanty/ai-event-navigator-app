@@ -1,0 +1,12 @@
+streamlit
+requests
+python-dotenv
+langchain
+groq
+faiss-cpu
+sentence-transformers
+tqdm
+pandas
+googlemaps
+uvicorn
+fastapi        # optional if exposing API

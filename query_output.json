@@ -1,0 +1,61 @@
+{
+  "query": "concerts near me",
+  "answer": "**Top Concerts Near You:**\n\nWe've got some amazing events lined up for you in New York. Here are our top picks:\n\n1. **JoGo Project with Spinkick**: October 1, 2025, New York, $20-$30 (tickets available on TicketWeb)\nExperience the unique blend of jazz, go-go, and funk music with this exciting performance.\n2. **Emmet Cohen Trio**: October 2, 2025, New York, $30-$50 (tickets available on TicketWeb)\nGet ready for a night of incredible piano playing and jazz music with this talented trio.\n3. **Birdland Big Band**: October 3, 2025, New York, $20-$40 (tickets available on TicketWeb)\nThis one-of-a-kind band will blow you away with their unique sound and energy.\n4. **Amy Millan - I Went To Find You Tour**: October 3, 2025, New York, $25-$30 (tickets available on TicketMaster)\nCatch this talented singer-songwriter on tour and experience her soulful music live.\n\n**Our Top Recommendation:**\n\nWe think you should check out the **JoGo Project with Spinkick** on October 1, 2025! It's a unique and exciting event that combines different styles of music, and the energy at Drom is always electric. Plus, it's a great value at $20-$30 per ticket. Don't miss out on this fantastic opportunity to see these talented musicians perform live!",
+  "results": [
+    {
+      "id": "rZ7HnEZ1AKPxv0_5",
+      "event_id": "rZ7HnEZ1AKPxv0",
+      "name": "JoGo Project with Spinkick [jazz, gogo & funk music]",
+      "date": "2025-10-01T23:00:00Z",
+      "venue": "Drom",
+      "city": "New York",
+      "chunk": "Performances and various music festivals! To find out more about the band check our YouTube and IG pages under SpinKicK Music!",
+      "url": "https://www.ticketweb.com/event/jogo-project-with-spinkick-jazz-drom-tickets/13962064",
+      "classification": "Music"
+    },
+    {
+      "id": "rZ7HnEZ1AKOYZ7_1",
+      "event_id": "rZ7HnEZ1AKOYZ7",
+      "name": "Birdland Big Band",
+      "date": "2025-10-03T21:30:00Z",
+      "venue": "Birdland Jazz Club",
+      "city": "New York",
+      "chunk": "New York called the BBB, a completely unique experience... there isnt another band like this anywhere, and yelp.com proclaims, if you hear one band in NYC make sure this is it... and prepare to be blown away!",
+      "url": "https://www.ticketweb.com/event/birdland-big-band-birdland-jazz-club-tickets/13830004",
+      "classification": "Music"
+    },
+    {
+      "id": "k7vGFbnkIYIT4_0",
+      "event_id": "k7vGFbnkIYIT4",
+      "name": "Amy Millan - I Went To Find You Tour",
+      "date": "2025-10-03T22:00:00Z",
+      "venue": "Mercury Lounge",
+      "city": "New York",
+      "chunk": "Amy Millan - I Went To Find You Tour w/ Diana DeMuth [Ages 21+, Doors Open 6pm, $25 Advance, $30 Day of Show]",
+      "url": "https://www.ticketmaster.com/amy-millan-i-went-to-find-new-york-new-york-10-03-2025/event/000062A1A8C28FD5",
+      "classification": "Music"
+    },
+    {
+      "id": "rZ7HnEZ1AKrfe7_1",
+      "event_id": "rZ7HnEZ1AKrfe7",
+      "name": "Emmet Cohen Trio",
+      "date": "2025-10-02T01:30:00Z",
+      "venue": "Birdland Jazz Club",
+      "city": "New York",
+      "chunk": "International Piano Competition. Cohen headlines regularly at Jazz at Lincoln Center, the Village Vanguard, and Birdland, and has appeared at the Newport, Monterey, and North Sea jazz festivals. His artistry has taken him to venues and festivals in over 30 countries. Cohens entrepreneurial energies led to his developing Live From Emmets Place, a live-streamed Harlem rent party that unites a worldwide audience via tens of millions of internet views. Cohen has released over ten albums as leader and has performed",
+      "url": "https://www.ticketweb.com/event/emmet-cohen-trio-birdland-jazz-club-tickets/13794084",
+      "classification": "Music"
+    },
+    {
+      "id": "rZ7HnEZ1AKrfef_1",
+      "event_id": "rZ7HnEZ1AKrfef",
+      "name": "Emmet Cohen Trio",
+      "date": "2025-10-01T23:00:00Z",
+      "venue": "Birdland Jazz Club",
+      "city": "New York",
+      "chunk": "International Piano Competition. Cohen headlines regularly at Jazz at Lincoln Center, the Village Vanguard, and Birdland, and has appeared at the Newport, Monterey, and North Sea jazz festivals. His artistry has taken him to venues and festivals in over 30 countries. Cohens entrepreneurial energies led to his developing Live From Emmets Place, a live-streamed Harlem rent party that unites a worldwide audience via tens of millions of internet views. Cohen has released over ten albums as leader and has performed",
+      "url": "https://www.ticketweb.com/event/emmet-cohen-trio-birdland-jazz-club-tickets/13794094",
+      "classification": "Music"
+    }
+  ]
+}
